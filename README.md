@@ -7,6 +7,7 @@ Software Developer
 Results-driven software developer currently pursuing my Masters in Computer Science at Wilfrid Laurier University in Canada, and a year of industry experience. Proficient in multiple programming languages and web development, with a passion for parallel computing. Eager to collaborate, learn, and contribute to cutting-edge projects. Let's code and create something amazing! 🚀💻 #TechEnthusiast
 
 * 🌍  I'm based in Waterloo, ON, Canada
+* 🖥️  See my portfolio at [aldrichmendes.netlify.app/](http://aldrichmendes.netlify.app/)
 * ✉️  You can contact me at [aldrich.mendes@gmail.com](mailto:aldrich.mendes@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Any interesting project
