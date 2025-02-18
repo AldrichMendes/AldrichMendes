@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Results-driven software developer currently pursuing my Masters in Computer Science at Wilfrid Laurier University in Canada, more than a year of industry experience. Proficient in multiple programming languages and web development, with a passion for parallel computing. Eager to collaborate, learn, and contribute to cutting-edge projects. Let's code and create something amazing! 🚀💻 #TechEnthusiast
+Results-driven software developer currently pursuing my Masters in Computer Science at Wilfrid Laurier University in Canada, with more than a year of industry experience. Proficient in multiple programming languages and web development, with a passion for parallel computing. Eager to collaborate, learn, and contribute to cutting-edge projects. Let's code and create something amazing! 🚀💻 #TechEnthusiast
 
 * 🌍  I'm based in Toronto, ON, Canada
 * 🖥️  See my portfolio at [aldrichmendes.netlify.app/](http://aldrichmendes.netlify.app/)
