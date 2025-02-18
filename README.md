@@ -7,7 +7,7 @@ Software Developer
 Results-driven software developer currently pursuing my Masters in Computer Science at Wilfrid Laurier University in Canada, with more than a year of industry experience. Proficient in multiple programming languages and web development, with a passion for parallel computing. Eager to collaborate, learn, and contribute to cutting-edge projects. Let's code and create something amazing! 🚀💻 #TechEnthusiast
 
 * 🌍  I'm based in Toronto, ON, Canada
-* 🖥️  See my portfolio at [aldrichmendes.netlify.app/](http://aldrichmendes.netlify.app/)
+* 🖥️  See my portfolio at [https://aldrichmendes.co/](https://aldrichmendes.co/)
 * ✉️  You can contact me at [aldrich.mendes@gmail.com](mailto:aldrich.mendes@gmail.com)
 * 🤝  I'm open to collaborating on Any interesting project
 * ⚡  I am also a Musician and sports enthusiast. I play guitar, sing, and beatbox. Soccer, badminton, cricket, and pool are my games, and I'm also a swimmer. When I'm not coding or playing sports, I usually dive into anime and TV shows. Let's connect and share our coding and non-coding passions! 🚀🎶🏆
