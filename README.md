@@ -114,7 +114,7 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
   
   <a href="http://www.github.com/AldrichMendes">
     <img src="https://github-readme-stats.vercel.app/api?username=AldrichMendes&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
@@ -129,3 +129,4 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 <a href="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat&combine_all_yearly_contributions=true">
   <img src="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat" alt="Top Contributions" />
 </a>
+
