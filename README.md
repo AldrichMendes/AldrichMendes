@@ -6,21 +6,14 @@
 
 ### Software Developer
 
-<table>
-  <tr>
-    <td width="70%">
-      Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate about building impactful projects and solving complex problems.  
-      Currently pursuing my Master of Computer Science at Wilfrid Laurier University, I bring over two years of industry experience with a strong foundation in software engineering, mobile and web development, machine learning, and AI.  
-      I thrive in fast-paced environments—whether it's a corporate team or a hackathon—and I'm always eager to collaborate, innovate, and tackle complex challenges.  
-      My mission is to create meaningful solutions that enhance user experiences and push the boundaries of technology.  
+<img align="right" alt="Coding" width="200" src="https://github.com/AldrichMendes/AldrichMendes/blob/main/coding_animated.gif">
 
-      Let’s build something amazing! 🚀💻  
-    </td>
-    <td width="30%" align="center">
-      <img src="https://github.com/AldrichMendes/AldrichMendes/blob/main/coding_animated.gif" width="200" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aldrichmendes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+### 🚀 About Me
+Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate about building impactful projects and solving complex problems. Currently pursuing my Master of Computer Science at Wilfrid Laurier University, I bring over two years of industry experience with a strong foundation in software engineering, mobile and web development, machine learning, and AI. I thrive in fast-paced environments—whether it's a corporate team or a hackathon—and I'm always eager to collaborate, innovate, and tackle complex challenges. My mission is to create meaningful solutions that enhance user experiences and push the boundaries of technology. Let’s build something amazing! 🚀💻
 
 🎓 Master of Computer Science - Wilfrid Laurier University  
 💻 Mobile App Developer @ CIBC  
