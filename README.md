@@ -6,11 +6,13 @@
 
 ### Software Developer
 
-<img align="right" alt="Coding" width="200" src="https://github.com/AldrichMendes/AldrichMendes/blob/main/coding_animated.gif">
-
 <div align="right" style="margin-left: 20px; padding-left: 20px;">
   <img alt="Coding" width="200" src="https://github.com/AldrichMendes/AldrichMendes/blob/main/coding_animated.gif">
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aldrichmendes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 
 ### 🚀 About Me
