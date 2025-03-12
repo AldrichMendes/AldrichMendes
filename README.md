@@ -15,13 +15,13 @@
 ### 🚀 About Me
 Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate about building impactful projects and solving complex problems. Currently pursuing my Master of Computer Science at Wilfrid Laurier University, I bring over two years of industry experience with a strong foundation in software engineering, mobile and web development, machine learning, and AI. I thrive in fast-paced environments—whether it's a corporate team or a hackathon—and I'm always eager to collaborate, innovate, and tackle complex challenges. My mission is to create meaningful solutions that enhance user experiences and push the boundaries of technology. Let’s build something amazing! 🚀💻
 
-🎓 Master of Computer Science - Wilfrid Laurier University  
-💻 Mobile App Developer @ CIBC  
-🌍 Based in Toronto, Canada  
-🌐 Check out my portfolio at [aldrichmendes.co/](http://aldrichmendes.co/)
-✉️ Contact: [aldrich.mendes@gmail.com](mailto:aldrich.mendes@gmail.com)  
-🤝 Open to collaborating on interesting projects  
-⚡ Musician (Guitarist, Singer, Beatboxer) | Sports Enthusiast (Soccer, Badminton, Cricket, Swimming) | F1 & Karting Fan | Gym & Fitness | Pool, Darts, Poker | Anime & TV Shows
+* 🎓 Master of Computer Science - Wilfrid Laurier University  
+* 💻 Mobile App Developer @ CIBC  
+* 🌍 Based in Toronto, Canada  
+* 🌐 Check out my portfolio at [aldrichmendes.co](http://aldrichmendes.co/)
+* ✉️ Contact: [aldrich.mendes@gmail.com](mailto:aldrich.mendes@gmail.com)  
+* 🤝 Open to collaborating on interesting projects  
+* ⚡ Musician (Guitarist, Singer, Beatboxer) | Sports Enthusiast (Soccer, Badminton, Cricket, Swimming) | F1 & Karting Fan | Gym & Fitness | Pool, Darts, Poker | Anime & TV Shows
 
 ---
 
