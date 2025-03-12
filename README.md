@@ -87,18 +87,23 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 70px; margin-bottom: 20px;">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldrichMendes&show_icons=true&theme=dark)  
+<div align="center">
+
+  <a href="https://github.com/AldrichMendes">
+    <img src="https://github-readme-stats.vercel.app/api?username=AldrichMendes&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
+  </a>
   
   <a href="https://github.com/AldrichMendes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="180px"/>
   </a>
 
 </div>
 
-<a href="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat&combine_all_yearly_contributions=true">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat" alt="Top Contributions" />
-</a>
+<div align="center">
+  <a href="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat" alt="Top Contributions" width="500px"/>
+  </a>
+</div>
+
 
 
