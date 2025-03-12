@@ -41,4 +41,4 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 <a href="https://github.com/AldrichMendes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat&combine_all_yearly_contributions=true)
