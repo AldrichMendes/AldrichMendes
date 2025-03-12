@@ -103,3 +103,6 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
   <img src="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat" alt="Top Contributions" />
 </a>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldrichMendes&show_icons=true&theme=dark)
+
+
