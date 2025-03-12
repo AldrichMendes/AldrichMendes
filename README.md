@@ -114,9 +114,20 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/AldrichMendes"><img src="https://github-readme-stats.vercel.app/api?username=AldrichMendes&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" /></a>
-
-<a href="https://github.com/AldrichMendes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/AldrichMendes">
+        <img src="https://github-readme-stats.vercel.app/api?username=AldrichMendes&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AldrichMendes">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat&combine_all_yearly_contributions=true">
 <img src="https://github-contributor-stats.vercel.app/api?username=AldrichMendes&limit=5&theme=flat" alt="Top Contributions" />
