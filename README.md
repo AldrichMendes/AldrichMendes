@@ -26,8 +26,6 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
 
   <div align="center" style="width: 30%;">
@@ -83,6 +81,7 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
   </div>
 
 </div>
+
 
 
 ---
