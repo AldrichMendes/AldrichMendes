@@ -91,11 +91,11 @@ Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate abou
 <div align="center">
 
   <a href="https://github.com/AldrichMendes">
-    <img src="https://github-readme-stats-8vct4q2gs-aldrichmendes-projects.vercel.app/api?username=AldrichMendes&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats-aldrichmendes-projects.vercel.app/api?username=AldrichMendes&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" height="180px" />
   </a>
   
   <a href="https://github.com/AldrichMendes">
-    <img src="https://github-readme-stats-8vct4q2gs-aldrichmendes-projects.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats-aldrichmendes-projects.vercel.app/api/top-langs/?username=AldrichMendes&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" height="180px" />
   </a>
 
 </div>
