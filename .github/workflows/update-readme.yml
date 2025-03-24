@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: 📥 Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 📝 Auto-commit a README "touch"
         run: |
