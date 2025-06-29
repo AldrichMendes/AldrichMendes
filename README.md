@@ -13,7 +13,7 @@
 </p>
 
 ### 🚀 About Me
-Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate about building impactful projects and solving complex problems. Currently pursuing my Master of Computer Science at Wilfrid Laurier University, I bring over two years of industry experience with a strong foundation in software engineering, mobile and web development, machine learning, and AI. I thrive in fast-paced environments—whether it's a corporate team or a hackathon—and I'm always eager to collaborate, innovate, and tackle complex challenges. My mission is to create meaningful solutions that enhance user experiences and push the boundaries of technology. Let’s build something amazing! 🚀💻
+Bonjour! I'm Aldrich Mendes, a results-driven Software Developer passionate about building impactful projects and solving complex problems. Currently pursuing my Master of Computer Science at Wilfrid Laurier University, I bring over two years of industry experience with a strong foundation in software engineering, mobile and web development, machine learning, and AI. I thrive in fast-paced environments—whether it's a corporate team or a hackathon—and I'm always eager to collaborate, innovate, and tackle complex challenges. My mission is to create meaningful solutions that enhance user                      experiences and push the boundaries of technology. Let’s build something amazing! 🚀💻
 
 * 🎓 Master of Computer Science - Wilfrid Laurier University  
 * 💻 Mobile App Developer @ CIBC  
